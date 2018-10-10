@@ -22,8 +22,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
-  <modules>
-		<module>jvm-sduty-chapter02</module>
-	</modules>
 </project>
